@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Juros Compostos</string>
+    <string name="capitalinicial">Capital inicial (Ex.: R$1000)</string>
+    <string name="taxadejuros">Taxa de juros (Ex.: 0.9%/mês)</string>
+    <string name="periodo">Período (Ex.: 60 meses)</string>
+    <string name="increase">Acréscimo periódico (Ex.: R$1000/mês)</string>
+    <string name="rendimento">Yield: </string>
+</resources>

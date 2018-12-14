@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compound Interest</string>
+    <string name="capitalinicial">Initial capital (eg $ 1000)</string>
+    <string name="taxadejuros">Interest rate (eg 0.9%/month)</string>
+    <string name="periodo">Period (eg 60 months)</string>
+    <string name="increase">Periodic increase (eg $ 1000/month)</string>
+    <string name="rendimento">Yield: </string>
+</resources>
